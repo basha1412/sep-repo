@@ -1,3 +1,5 @@
 hi 
 this is my first file
-i am going to add my file to remote repo from my local machine 
+i am going to add my file to remote repo from my local machine
+hey this is my second line
+i am going to push it github repo
